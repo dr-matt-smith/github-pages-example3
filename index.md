@@ -2,5 +2,5 @@
 
 I am gext
 
-here is a link to the (README)[README~.md]
+here is a link to the [README](README.md)
 
