@@ -1,6 +1,6 @@
 # welcome to the home page 
 
-I am gext
+I am text
 
 here is a link to the [README](README.md)
 
